@@ -1,4 +1,4 @@
-## E-Commerce site
+## E-Commerce site-1
 
 Users can search for products from 4 categories. They can sort and filter products by price or category, and add items to cart. The checkout includes a billing form and an order summary.
 
