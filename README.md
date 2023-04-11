@@ -67,3 +67,5 @@ Review:
 <p align="center">
 <img src="https://i.imgur.com/F0crXNH.png" alt="Screencapture of the deployed E-Commerce project review page. User can review his/her billing information." title="Screenshot of the review page"/>
 </p>
+
+## Further Research
